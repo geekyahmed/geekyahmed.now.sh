@@ -1,6 +1,6 @@
 ![Gridsome Logo](https://github.com/zeit/now/blob/master/packages/frameworks/logos/gridsome.svg)
 
-# Gridsome Example
+# Geeky Ahmed Blog
 
 This directory is a brief example of a [Gridsome](https://gridsome.org/) app that can be deployed with Vercel and zero configuration.
 
